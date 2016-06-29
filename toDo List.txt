@@ -1,0 +1,22 @@
+﻿Check for mint program installed (on inverter write)
+exit to windows, close settings or service screen (try modal)
+
+
+
+Larger screen option
+Cycle Outputs with timer on service
+Log op header times
+Viewer for operation times
+Calculate machining times
+Recutting pieces already cut on microline. Optimising does not reset
+
+Saw Additional screen
+Messages
+Bar Queue screen
+Bar queue process to saw queue
+autoqueue processing from itself
+
+Alarms
+IO / Service
+Manual input cuts??
+Saw Diagnostics log
